@@ -34,7 +34,8 @@ github_username:  jekyll
 theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
-
+  - jekyll-include-cache
+  
 # Persephone theme
 # theme: jekyll-theme-persephone
 remote_theme: erlzhang/jekyll-theme-persephone
