@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This blog is intended to serve as a brain dump for some of the stuff that I do and would like to keep as a reference for the future.
