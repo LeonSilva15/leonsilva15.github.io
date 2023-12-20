@@ -78,3 +78,9 @@ In the routing section
 Just open in your browser `https://<your-openvpn-ip>:943/?src=connect`.
 There you can download te client or the vpn profile.
 ![VPN Client](/assets/2023-12-19/14.png "VPN Client")
+
+
+#### Some useful resources:
+- [setup a FREE VPN server in the cloud (AWS)](https://www.youtube.com/watch?v=m-i2JBtG4FE)
+- [OpenVPN Access Server Admin Web UI First Login](https://openvpn.net/access-server-manual/access-server-web-admin-ui-first-login/)
+- [How do I connect a VPN client device to OpenVPN](https://openvpn.net/vpn-server-resources/connecting/)
