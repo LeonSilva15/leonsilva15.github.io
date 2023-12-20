@@ -1,2 +1,3 @@
-# leonsilva15.github.io
-My Personal Blog
+# LeonSilva15.github.io
+
+This is the repo for my personal Blog.
