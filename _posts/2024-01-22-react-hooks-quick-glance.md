@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "React Hooks Quick Glance"
-date:   2024-01-22 10:00:00 -0600
-categories: react hooks frontend
+title: React Hooks Quick Glance
+date: 2024-01-22
 ---
 # React Hooks
 

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Deploying Jekyll Github Page"
-date:   2023-12-18 00:00:28 -0600
-categories: jekyll github
+title: Deploying Jekyll Github Page
+date: 2023-12-18
 ---
 This is my first time deploying a Github Page, so I decided to use Jekyll. Here's a list of points to remember.
 

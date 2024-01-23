@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Creating an AWS VPN"
-date:   2023-12-19 10:00:0 -0600
-categories: aws vpn
+title: Creating an AWS VPN
+date: 2023-12-19
 ---
 
 Recently I built my own desktop computer for my personal projects, but I didn't want to be sitted on my desktop all day while working on it and only using my laptop with its limited resources wasn't an option, so I decided to deploy a VPN to connect both my desktop and laptop computers to it and connect each other using ssh.
