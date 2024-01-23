@@ -28,6 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  LeonSilva15
 
+favicon_path: assets/favicon.png
+
 syntax_highlighter_style: pastie
 
 collections:
