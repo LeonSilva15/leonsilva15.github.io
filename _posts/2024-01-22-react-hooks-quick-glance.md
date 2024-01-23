@@ -26,7 +26,7 @@ This hook handles the state of a component, it is composed of two parts, the `st
 
 ![useState](/assets/2024-01-22/useState.png "useState")
 
-> https://react.dev/reference/react/useState
+> [react.dev - useState](https://react.dev/reference/react/useState)
 
 ### useEffect
 > useEffect is a React Hook that lets you synchronize a component with an external system.
@@ -43,7 +43,7 @@ In the past, when working with classes, we had to use the life cycle events, spe
 
 ![useEffect](/assets/2024-01-22/useEffect.png "useEffect")
 
-> https://react.dev/reference/react/useEffect
+> [react.dev - useEffect](https://react.dev/reference/react/useEffect)
 
 ### useContext
 > useContext is a React Hook that lets you read and subscribe to context from your component.
@@ -60,7 +60,7 @@ We can consume this context data in any child component, no matter how deep it i
 The context consumes the nearest parent provider.
 
 ![useContext](/assets/2024-01-22/useContext.png "useContext")
-> https://react.dev/reference/react/useContext
+> [react.dev - useContext](https://react.dev/reference/react/useContext)
 
 ### useRef
 > useRef is a React Hook that lets you reference a value that’s not needed for rendering.
@@ -73,7 +73,7 @@ This hook updates data but **doesn’t re-render** anything. This is normally us
 
 ![useRef](/assets/2024-01-22/useRef.png "useRef")
 
-> https://react.dev/reference/react/useRef
+> [react.dev - useRef](https://react.dev/reference/react/useRef)
 
 ### useReducer
 > useReducer is a React Hook that lets you add a reducer to your component.
@@ -87,7 +87,7 @@ It uses a reducer method that receives the current state and the dispatched acti
 
 ![useReducer](/assets/2024-01-22/useReducer.png "useReducer")
 
-> https://react.dev/reference/react/useReducer
+> [react.dev - useReducer](https://react.dev/reference/react/useReducer)
 
 ### useMemo
 > useMemo is a React Hook that lets you cache the result of a calculation between re-renders.
@@ -101,7 +101,7 @@ In the examle below, changing the theme doesn't recalculates the memoized value,
 
 ![useMemo](/assets/2024-01-22/useMemo.png "useMemo")
 
-> https://react.dev/reference/react/useMemo
+> [react.dev - useMemo](https://react.dev/reference/react/useMemo)
 
 ### useCallback
 > useCallback is a React Hook that lets you cache a function definition between re-renders.
@@ -114,7 +114,7 @@ This one works as the useMemo hook but caches an entire function. A common use c
 
 ![useCallback](/assets/2024-01-22/useCallback.png "useCallback")
 
-> https://react.dev/reference/react/useCallback
+> [react.dev - useCallback](https://react.dev/reference/react/useCallback)
 
 ### useImperativeHandle
 > useImperativeHandle is a React Hook that lets you customize the handle exposed as a ref.
@@ -128,7 +128,7 @@ Used only in rare cases, this allows us to expose native DOM elements through re
 ![useImperativeHandle MyInput.js](/assets/2024-01-22/useImperativeHandle_1.png "useImperativeHandle MyInput.js")
 ![useImperativeHandle App.js](/assets/2024-01-22/useImperativeHandle_2.png "useImperativeHandle App.js")
 
-> https://react.dev/reference/react/useImperativeHandle
+> [react.dev - useImperativeHandle](https://react.dev/reference/react/useImperativeHandle)
 
 ### useLayoutEffect
 > useLayoutEffect is a version of useEffect that fires before the browser repaints the screen.
@@ -141,7 +141,7 @@ This is another rare hook; it works like the useEffect hook but takes effect aft
 
 ![useLayoutEffect](/assets/2024-01-22/useLayoutEffect.png "useLayoutEffect")
 
-> https://react.dev/reference/react/useLayoutEffect
+> [react.dev - useLayoutEffect](https://react.dev/reference/react/useLayoutEffect)
 
 ### useDebugValue
 > useDebugValue is a React Hook that lets you add a label to a custom Hook in React DevTools.
@@ -154,7 +154,7 @@ When working with custom hooks, we can add this hook inside of our custom hook t
 
 ![useDebugValue](/assets/2024-01-22/useDebugValue.png "useDebugValue")
 
-> https://react.dev/reference/react/useDebugValue
+> [react.dev - useDebugValue](https://react.dev/reference/react/useDebugValue)
 
 ---
 More in [react.dev](https://react.dev/reference/react/hooks).
