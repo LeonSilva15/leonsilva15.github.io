@@ -157,4 +157,4 @@ When working with custom hooks, we can add this hook inside of our custom hook t
 > https://react.dev/reference/react/useDebugValue
 
 ---
-More in https://react.dev/reference/react/hooks
+More in [react.dev](https://react.dev/reference/react/hooks).
