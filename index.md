@@ -12,5 +12,8 @@ Some of my current interests:
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Haskell programming
+- Fullstack web programming
+- React JS
+- Node JS
+- Typescript
 - Fedora Linux
